@@ -21,7 +21,7 @@
         alt="Karanjot-singh" />
 </p>
 
-<h2>Tech Stack </h2>
+<h2>Tools & Technologies </h2>
 <p>
     <br>
     <img height="45" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="45" />
@@ -69,6 +69,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" height="45" /> </a>
 </p><br>
+<h2>Connect with Me</h2>
 <p>
     <a href="https://www.linkedin.com/in/karanjot-singh-/"><img
             src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin'
