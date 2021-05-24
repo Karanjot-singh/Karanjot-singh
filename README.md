@@ -8,16 +8,16 @@
 </p><br> -->
 <p>
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=Karanjot-singh&show_icons=true&locale=en&theme=dracula"
+        src="https://github-readme-stats.vercel.app/api?username=Karanjot-singh&count_private=true&show_icons=true&locale=en&theme=dracula"
         alt="Karanjot-singh" />
 </p>
 <p>
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Karanjot-singh&show_icons=true&locale=en&layout=compact&theme=dracula"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Karanjot-singh&count_private=true&show_icons=true&locale=en&layout=compact&theme=dracula"
         alt="Karanjot-singh" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Karanjot-singh&theme=onedark"
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Karanjot-singh&count_private=true&theme=onedark"
         alt="Karanjot-singh" />
 </p>
 
