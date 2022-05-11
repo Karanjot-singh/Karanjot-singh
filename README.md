@@ -71,6 +71,6 @@
             src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt='linkedin'
             height='40' /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:karanjot19050@iiitd.ac.in"><img
-            src='https://icons8.com/icon/npHwH2U4SLHK/email' alt='gmail'
+            src="https://img.icons8.com/color/48/000000/gmail-new.png" alt='gmail'
             height='40'></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/Karanjot-singh/Karanjot-singh/blob/master/resources/Wave.svg" />
