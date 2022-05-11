@@ -68,9 +68,9 @@
 <h2>Connect with Me</h2>
 <p>
     <a href="https://www.linkedin.com/in/karanjot-singh-/"><img
-            src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin'
+            src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt='linkedin'
             height='40' /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:karanjot19050@iiitd.ac.in"><img
-            src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail'
+            src='https://icons8.com/icon/npHwH2U4SLHK/email' alt='gmail'
             height='40'></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/Karanjot-singh/Karanjot-singh/blob/master/resources/Wave.svg" />
